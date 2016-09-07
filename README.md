@@ -1,8 +1,5 @@
 # Fix-WAN-Cloud-Mikrotik
 Help Script Fix route cloud mikrotik to wan
-
-# Fix-WAN-Cloud-Mikrotik
-
 - เพิ่ม-ลบ IP Route ให้เรา อัตโนมัติจากการ get dns
 
 
